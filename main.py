@@ -1,1 +1,1 @@
-from Chicken-Disease-Classification import logger
+from Chicken_Disease_Classification import logger
